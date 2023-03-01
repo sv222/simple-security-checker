@@ -1,0 +1,4 @@
+2023/02/28 02:10:28 Endpoint http://example.com/backup returned status code 404
+2023/02/28 02:10:28 Endpoint http://example.com/bd/ returned status code 403
+2023/02/28 02:10:33 Endpoint http://example.com/admin returned status code 404
+2023/02/28 02:10:33 Endpoint http://example.com/api/ returned status code 403
