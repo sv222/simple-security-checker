@@ -1,6 +1,6 @@
 # Simple Security Checker
 
-A simple security checker for URLs that need to be closed. This tool allows you to check a list of URLs for a specific response code (e.g. 200 OK) and logs any errors or successful responses. This is useful for monitoring open URLs that need to be closed to maintain security.
+A simple security checker for URLs that need to be closed (More 200+ common URLs). This tool allows you to check a list of URLs for a specific response code (e.g. 200 OK) and logs any errors or successful responses. This is useful for monitoring open URLs that need to be closed to maintain security.
 
 ## Detailed Description
 
