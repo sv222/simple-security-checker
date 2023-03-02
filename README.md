@@ -68,8 +68,8 @@ By using Docker, you can easily build and deploy the security checker in any env
 
 ## Contribution
 
-If you would like to contribute to the SSL Certificate Checker, you can fork the project on GitHub and create a pull request with your changes. Contributions are always welcome, and we appreciate your help in making the program better.
+If you would like to contribute to the Simple Security Checker, you can fork the project on GitHub and create a pull request with your changes. Contributions are always welcome, and we appreciate your help in making the program better.
 
 ## License
 
-The SSL Certificate Checker is licensed under the MIT License.
+The Simple Security Checker is licensed under the MIT License.
